@@ -1,0 +1,3 @@
+[submodule "week1/appaweek"]
+	path = week1/appaweek
+	url = git://github.com/aaln/appaweek
