@@ -2,7 +2,7 @@
 
 ##About
 
-App-A-Week is a special project of mine to build an app every week. Whether it's a simple game of tic tac toe built in javascript- is non crucial to the goal. My hope is the quality of the apps improve over time as I get better.
+App-A-Week is a special project of mine to build an app every week. Whether it's a simple game of tic tac toe built in javascript doesn't matter, how I build it is non crucial to the goal. My hope is the quality of the apps improve over time as I get better.
 
 Plus! All the apps I build for App-A-Week are open source. Feel free to take a look and use the code for good.
 
