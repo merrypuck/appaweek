@@ -8,6 +8,6 @@ App A-Week is a special project to build an app every week. Whether it's a simpl
 
 This week I built 1000scientists at #YCHacks. The goal was to make it easier for scientists to collect training data for experiments. The current model widely used is mechanical turk, where you can pay someone else money to do mundane tasks.
 
-The demo exists at scientists.herokuapp.com
+The demo exists at scientists.herokuapp.com.
 
 ### Week 2
